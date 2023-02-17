@@ -2,10 +2,6 @@
 
 ## Next.js
 
-### Update next.js config
-
-Update `next.config.js`, add `ouput` config.
-
 ### Update eslint config
 
 Add ignore patterns
@@ -15,6 +11,10 @@ Add ignore patterns
   "ignorePatterns": ["ecosystem.config.js", "next.config.js"]
 }
 ```
+
+### Update next.js config
+
+Update `next.config.js`, add `ouput` config.
 
 ```js
 const nextConfig = {
