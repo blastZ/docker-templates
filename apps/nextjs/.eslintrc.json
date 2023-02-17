@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  "ignorePatterns": [
+    "ecosystem.config.js",
+    "next.config.js"
+  ]
+}
