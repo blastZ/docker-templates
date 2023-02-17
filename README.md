@@ -12,7 +12,6 @@ Add ignore patterns
 
 ```json
 {
-  // ...
   "ignorePatterns": ["ecosystem.config.js", "next.config.js"]
 }
 ```
